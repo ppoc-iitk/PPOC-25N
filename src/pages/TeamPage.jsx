@@ -137,15 +137,15 @@ export default function TeamPage() {
 
   const coordinators = [
     {
-      name: 'Peeyush Agarwal',
-      imageSrc: '/Team25/Peeyush.jpg',
+      name: 'Aviral Singh',
+      imageSrc: '/Teams26/aviral.png',
       Instagram:"https://www.instagram.com/peeyushag5/",
       email:"mailto:peeyusha23@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/peeyush-agarwal-a02726285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
-      name: 'Krishna Goyal',
-      imageSrc: '/Team25/Krishna.jpg',
+      name: 'Adity Raj',
+      imageSrc: '/Teams26/adity.jpg',
       Instagram:"https://www.instagram.com/krishnagoyal4637/profilecard/?igsh=MXY5aGFka3hweTAyZQ==",
       email:"mailto:krishnag23@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/krishna-goyal-48a180280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -154,49 +154,73 @@ export default function TeamPage() {
 
   const members = [
     {
-      name: 'Vikash Yadav',
+      name: 'Virender',
       role: 'Policy Research',
-      imageSrc: '/Team25/Vikash.jpg',
+      imageSrc: '/Teams26/virender.jpg',
       Instagram:"https://www.instagram.com/vikashyadav_2723?igsh=ZTgzZDRkeThsYnFt",
       email:"mailto:vikashy23@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/vikash-yadav-7360062b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
-      name: 'Tanmay Sahare',
+      name: 'Sangeet Mishra',
       role: 'Policy Research',
-      imageSrc: '/Team25/Tanmay.jpg',
-      Instagram:"https://www.instagram.com/tanmaysahare/?__pwa=1",
-      email:"mailto:tanmayka23@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/tanmay-sahare-9a361329a/"
+      imageSrc: '/Teams26/sangeet.jpg',
+      Instagram:"https://www.instagram.com/vikashyadav_2723?igsh=ZTgzZDRkeThsYnFt",
+      email:"mailto:vikashy23@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/vikash-yadav-7360062b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
-      name: 'Chandrakanth Belodhiya',
+      name: 'Bhavit Goyal',
       role: 'Events',
-      imageSrc: '/Team25/Chandrakant.jpg',
+      imageSrc: '/Teams26/Bhavit.jpg',
       Instagram:"https://www.instagram.com/chandrakant_9187?igsh=MTZmY3RpeGs4ZDVibg==",
       email:"mailto:bchandra23@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/chandrakant-belodhiya-aa5751321/"
     },
     {
-      name: 'Yogesh Verma',
+      name: 'Ayush Chaudhary',
+      role: 'Events',
+      imageSrc: '/Teams26/Ayush.jpg',
+      Instagram:"https://www.instagram.com/chandrakant_9187?igsh=MTZmY3RpeGs4ZDVibg==",
+      email:"mailto:bchandra23@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/chandrakant-belodhiya-aa5751321/"
+    },
+    {
+      name: 'Divyanshi Shukla',
+      role: 'Media & Publicity',
+      imageSrc: '/Teams26/divyanshi.jpg',
+      Instagram:"https://www.instagram.com/chandrakant_9187?igsh=MTZmY3RpeGs4ZDVibg==",
+      email:"mailto:bchandra23@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/chandrakant-belodhiya-aa5751321/"
+    },
+    {
+      name: 'Akshita',
       role: 'Design',
-      imageSrc: '/Team25/Yogesh.jpeg',
+      imageSrc: '/Teams26/akshita.png',
       Instagram:"https://www.instagram.com/y.o.g.e.s.h_09/profilecard/?igsh=eHVmemMzOHZwOGRl",
       email:"mailto:yogeshv23@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/yogesh-verma-311358322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
-      name: 'Rahul',
+      name: 'Sarthak Agarwal',
       role: 'Finance & Marketing',
-      imageSrc: '/Team25/RAHUL.png',
+      imageSrc: '/Teams26/SARTHAK.jpg',
       Instagram:"ttps://www.instagram.com/rahulshishram?igsh=MWF1bjJtZW5uM2gzeg==",
       email:"mailto:rahul23@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/rahul-mahala-b544b9347"
     },
     {
-      name: 'Abhay Tripathi',
+      name: 'Ranisha',
+      role: 'Finance & Marketing',
+      imageSrc: '/Teams26/ranisha.jpg',
+      Instagram:"ttps://www.instagram.com/rahulshishram?igsh=MWF1bjJtZW5uM2gzeg==",
+      email:"mailto:rahul23@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/rahul-mahala-b544b9347"
+    },
+    {
+      name: 'Shivansh Pandey',
       role: 'Web Manager',
-      imageSrc: '/Team25/Abhay.jpg',
+      imageSrc: '/Teams26/image.png',
       Instagram:"https://www.instagram.com/abhaytripathi122/?hl=en",
       email:"mailto:abhayt23@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/abhay-tripathi-5733b7293/"
