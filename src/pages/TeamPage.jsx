@@ -132,7 +132,7 @@ function MemberCard({ name, role, imageSrc, email, instagram, linkedin }) {
 export default function TeamPage() {
   const facultyAdvisor = {
     name: 'Mousami Prasad',
-    imageSrc: '/Team25/HimanshuYadav.jpg',
+    imageSrc: 'public/Teams26/mousami_prasad.png',
   }
 
   const coordinators = [
@@ -173,9 +173,9 @@ export default function TeamPage() {
       name: 'Bhavit Goyal',
       role: 'Events',
       imageSrc: '/Teams26/Bhavit.jpg',
-      Instagram:"https://www.instagram.com/chandrakant_9187?igsh=MTZmY3RpeGs4ZDVibg==",
-      email:"mailto:bchandra23@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/chandrakant-belodhiya-aa5751321/"
+      Instagram:"https://www.instagram.com/bhavit_g0yal?srtk=ODNjanBvNWl4Ymlz",
+      email:"mailto:bhavitg24@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/bhavit-goyal-018400323?utm_source=share_via&utm_content=profile&utm_medium=member_android"
     },
     {
       name: 'Ayush Chaudhary',
