@@ -139,9 +139,9 @@ export default function TeamPage() {
     {
       name: 'Aviral Singh',
       imageSrc: '/Teams26/aviral.png',
-      Instagram:"https://www.instagram.com/peeyushag5/",
-      email:"mailto:peeyusha23@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/peeyush-agarwal-a02726285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      Instagram:"https://www.instagram.com/__aviral_singh_/",
+      email:"mailto:avirals24@iitk.ac.in ",
+      linkedin:"https://www.linkedin.com/in/aviral-singh-b9b1b0331/"
     },
     {
       name: 'Adity Raj',
@@ -157,16 +157,16 @@ export default function TeamPage() {
       name: 'Virender',
       role: 'Policy Research',
       imageSrc: '/Teams26/virender.jpg',
-      Instagram:"https://www.instagram.com/vikashyadav_2723?igsh=ZTgzZDRkeThsYnFt",
-      email:"mailto:vikashy23@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/vikash-yadav-7360062b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      Instagram:"https://www.instagram.com/virender_582/",
+      email:"mailto:virender24@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/virender-sharma-262b0135a/"
     },
     {
       name: 'Sangeet Mishra',
       role: 'Policy Research',
       imageSrc: '/Teams26/sangeet.jpg',
       Instagram:"https://www.instagram.com/vikashyadav_2723?igsh=ZTgzZDRkeThsYnFt",
-      email:"mailto:vikashy23@iitk.ac.in",
+      email:"mailto:sangeetkm24@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/vikash-yadav-7360062b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -181,9 +181,9 @@ export default function TeamPage() {
       name: 'Ayush Chaudhary',
       role: 'Events',
       imageSrc: '/Teams26/Ayush.jpg',
-      Instagram:"https://www.instagram.com/chandrakant_9187?igsh=MTZmY3RpeGs4ZDVibg==",
-      email:"mailto:bchandra23@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/chandrakant-belodhiya-aa5751321/"
+      Instagram:"https://www.instagram.com/sarthak_agrawal7/",
+      email:"mailto:ayushc24@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/ayush-chaudhary-a2233a318/"
     },
     {
       name: 'Divyanshi Shukla',
@@ -197,33 +197,33 @@ export default function TeamPage() {
       name: 'Akshita',
       role: 'Design',
       imageSrc: '/Teams26/akshita.png',
-      Instagram:"https://www.instagram.com/y.o.g.e.s.h_09/profilecard/?igsh=eHVmemMzOHZwOGRl",
-      email:"mailto:yogeshv23@iitk.ac.in",
+      Instagram:"https://www.instagram.com/justt_akshi56?stkn=MXc1OXhwNGo0eTFtdQ==",
+      email:"mailto:yakshitas24@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/yogesh-verma-311358322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       name: 'Sarthak Agarwal',
       role: 'Finance & Marketing',
       imageSrc: '/Teams26/SARTHAK.jpg',
-      Instagram:"ttps://www.instagram.com/rahulshishram?igsh=MWF1bjJtZW5uM2gzeg==",
-      email:"mailto:rahul23@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/rahul-mahala-b544b9347"
+      Instagram:"https://www.instagram.com/sarthak_agrawal7/",
+      email:"mailto:sarthakag24@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/sarthak-agrawal-5387b0330/"
     },
     {
       name: 'Ranisha',
       role: 'Finance & Marketing',
       imageSrc: '/Teams26/ranisha.jpg',
       Instagram:"ttps://www.instagram.com/rahulshishram?igsh=MWF1bjJtZW5uM2gzeg==",
-      email:"mailto:rahul23@iitk.ac.in",
+      email:"mailto:ranisha24@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/rahul-mahala-b544b9347"
     },
     {
       name: 'Shivansh Pandey',
       role: 'Web Manager',
       imageSrc: '/Teams26/image.png',
-      Instagram:"https://www.instagram.com/abhaytripathi122/?hl=en",
-      email:"mailto:abhayt23@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/abhay-tripathi-5733b7293/"
+      Instagram:"https://www.instagram.com/_shivansh_kun_/",
+      email:"mailto:shivanshp24@iitk.ac.in",
+      linkedin:"https://www.linkedin.com/in/shivansh-pandey-319b88223/"
     },
   ]
 
