@@ -132,7 +132,7 @@ function MemberCard({ name, role, imageSrc, email, instagram, linkedin }) {
 export default function TeamPage() {
   const facultyAdvisor = {
     name: 'Mousami Prasad',
-    imageSrc: 'public/Teams26/mousami_prasad.png',
+    imageSrc: '/Teams26/mousami_prasad.jpg',
   }
 
   const coordinators = [
