@@ -172,7 +172,7 @@ export default function TeamPage() {
     {
       name: 'Bhavit Goyal',
       role: 'Events',
-      imageSrc: '/Teams26/Bhavit.jpg',
+      imageSrc: '/Teams26/bhavit_2.jpg',
       Instagram:"https://www.instagram.com/bhavit_g0yal?srtk=ODNjanBvNWl4Ymlz",
       email:"mailto:bhavitg24@iitk.ac.in",
       linkedin:"https://www.linkedin.com/in/bhavit-goyal-018400323?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -199,7 +199,7 @@ export default function TeamPage() {
       imageSrc: '/Teams26/akshita.png',
       Instagram:"https://www.instagram.com/justt_akshi56?stkn=MXc1OXhwNGo0eTFtdQ==",
       email:"mailto:yakshitas24@iitk.ac.in",
-      linkedin:"https://www.linkedin.com/in/yogesh-verma-311358322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      linkedin:"https://www.linkedin.com/in/akshita-jangra-34898a382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       name: 'Sarthak Agarwal',
